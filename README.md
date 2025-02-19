@@ -20,6 +20,7 @@ Ensure you have the following installed:
 - **Zookeeper**
 
 ## Installation
+go through Every text files
 pip install -r requirements.txt
 
 ### 1. Clone the Repository
