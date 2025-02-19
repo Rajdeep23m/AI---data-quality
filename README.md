@@ -21,6 +21,8 @@ Ensure you have the following installed:
 
 ## Installation
 go through every text file here and present in kafka
+
+
 pip install -r requirements.txt
 
 ### 1. Clone the Repository
