@@ -8,5 +8,4 @@ This project ensures real-time quality validation for streaming data using AI.
 
 ## Setup  
 1. Clone the repository  
-```sh
 git clone https://github.com/Rajdeep23am/AI---data-quality.git
